@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pycharm file
+.idea/
+test/
+
+# gid file
+*.res
+
+# gid mesh filr
+*.msh

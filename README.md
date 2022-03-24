@@ -1,2 +1,2 @@
-# Function
-Useful Function
+#Useful Function
+Some common/useful functions
